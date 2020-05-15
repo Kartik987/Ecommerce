@@ -1,0 +1,139 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: "Varela Round";
+}
+
+body{
+	background-image: url('https://img.etimg.com/thumb/msid-64425324,width-643,imgsize-272386,resizemode-4/dont-forget-to-carry-that-cup-of-coffee-for-your-meeting-it-boosts-productivity.jpg');
+	background-size: cover;
+}
+.login-section{
+	height: 430px;
+	background-color: white;
+	width: 30%;
+padding: auto;
+margin-top: 5%;
+border-radius: 5px;
+padding:0 2%;
+
+}
+
+.btn1{
+	border-radius: 25px;
+	background-color:#004a88;
+	border: none;
+}
+.fields{
+	margin-top: 90px;
+}
+
+
+@media screen and (max-width: 1350px){
+
+	.btn{
+		font-size:12px;
+		max-width: 50%;
+	}
+	
+	
+}
+@media screen and (max-width: 1250px){
+
+	.btn{
+		font-size: 12px;
+		max-width: 52%;
+	}
+.text-muted{
+		font-size: 12px;
+	}
+	
+	
+}
+@media screen and (max-width: 992px){
+
+	.btn{
+		font-size: 10px;
+		max-width: 70%;
+	}
+.text-muted{
+		font-size: 12px;
+	}
+
+	
+
+}
+@media screen and (max-width: 800px){
+
+	.btn{
+		font-size: 8px;
+	max-width: 60%;
+	}
+	.text-muted{
+		font-size: 10px;
+	}
+	
+
+}
+@media screen and (max-width: 650px){
+
+	.btn{
+		font-size: 6px;
+		max-width: 60%;
+	}
+	.text-muted{
+		font-size: 10px;
+	}
+	
+
+}
+
+@media screen and (max-width: 400px){
+
+	.btn{
+		font-size: 6px;
+		max-width: 50%;
+	}
+	.text-muted{
+		font-size: 10px;
+	}
+	
+
+}
+.btn-elem{
+	background-color: #f7f7f7;
+	border: none;
+	
+	width: 120px;
+	margin-left: 3%;
+	margin-bottom: 10%;
+}
+.btn-elem1{
+	background-color: #f7f7f7;
+	border: none;
+	
+	width: 125px;
+	margin-left: 3%;
+	margin-bottom: 10%;
+}
+
+.head{
+	position: relative;
+	top: 14%;
+}
+.check-box{
+
+	height: 25px;
+	width: 25px;
+
+}
+.check-box1{
+
+	height: 25px;
+	width: 25px;
+}
+.loginhead{
+   position: relative;
+   top:8%;
+	color:#004a88; 
+}

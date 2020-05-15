@@ -1,0 +1,58 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: "Varela Round";
+}
+
+body{
+	background-image: url('https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80')
+	
+}
+.login-section{
+	height: 432px;
+	background-color: white;
+	width: 30%;
+padding: auto;
+margin-top: 5%;
+border-radius: 5px;
+padding:0 2%;
+
+}
+
+.btn1{
+	border-radius: 25px;
+	background-color:#004a88;
+	border: none;
+}
+.fields{
+	margin-top: 90px;
+}
+
+@media screen and (max-width: 1250px){
+
+	.btn{
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 900px){
+
+	.btn{
+		font-size: 10px;
+	}
+}
+
+.btn-elem{
+	background-color: #f7f7f7;
+	border: none;
+	width: 120px;
+}
+.btn-elem1{
+	background-color: #f7f7f7;
+	border: none;
+	width: 120px;
+}
+.head{
+	position: absolute;
+	top: 15%;
+	width: 30%;
+}

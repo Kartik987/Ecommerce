@@ -1,0 +1,182 @@
+.form-control1{
+	background-color: #004a87;
+	border: none;
+width: 100%;
+height: 50px;
+}
+.form-control2{
+
+width: 90%;
+height:35px;
+border-radius: 5px;
+border: none;
+
+}
+.view{
+	width: 80%;
+	background-color: #EDE4E4;
+	border-radius: 5px;
+	border:none;
+}
+.dropdown{
+	width: 90%;
+height:35px;
+border-radius: 5px;
+border: none;
+
+}
+
+.searchbtn{
+	width: 80%;
+	height: 50px;
+}
+
+.service
+{
+	background-color: white;
+	
+	color: black;
+	width: 90%;
+	border: none;
+}
+
+
+.checkbox{
+	width: 50%;
+	height: 100%;
+
+}
+
+.main-left{
+
+	width: 80%;
+	background-color:#95ccfa;
+	background-image: linear-gradient(#95ccfa,#004a88); 
+	border-radius: 10px;
+}
+.serach-btn{
+	
+	border: none;
+	padding: 0;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.moreinfo{
+
+	width: 100%;
+}
+.getdetail{
+	width: 400px;
+	height: 60px;
+	background-color:#95ccfa;
+	background-image: linear-gradient(#95ccfa,#004a88);
+	border-radius: 8px;
+	border: none;
+	
+
+}
+
+.icon-search{
+
+	position: relative;
+	top: -35px;
+	right: -400px;
+}
+
+.brief{
+	border-radius:30px 5px 5px 5px;
+}
+
+ul {list-style-type: none;}
+
+
+/* Month header */
+.month {
+  padding: 70px 25px;
+  width: 100%;
+  background: #1abc9c;
+  text-align: center;
+}
+
+/* Month list */
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+  float: right;
+  padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color:#ddd;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  color: #666;
+  text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+  padding: 10px 0;
+  background: #eee;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size:12px;
+  color: #777;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+  padding: 5px;
+  background: #1abc9c;
+  color: white !important
+}
+.contactbtn
+{
+	background-color: #004a88;
+	width:90%;
+}
+.contactbtn1
+{
+	background-color: #004a88;
+	width:75%;
+}
+
+.contactdiv{
+	border-radius: 10px;
+}
+
